@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+venv/
+.venv/
+output/ocr_debug.txt
+output/ocr_result.json
+output/llm_result.json
+uploads/

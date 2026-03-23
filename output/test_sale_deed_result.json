@@ -1,0 +1,22 @@
+{
+  "document_name": "खरेदीखत (Sale Deed)",
+  "seller_name": "साहेबराव बाजीराव देशमुख",
+  "seller_age": "५७ वर्षे",
+  "seller_address": "रा. कन्हेरी, लातूर",
+  "buyer_name": "शीलत दीपक पवार",
+  "buyer_age": "२७ वर्षे",
+  "buyer_address": "रा. गांधी चौक, कामदार पेट्रोल पंप जवळ, लातूर",
+  "boundary_east": "सदरिल सर्व नंबर जमीन",
+  "boundary_west": "६ मीटर रूंदीचा रस्ता",
+  "boundary_north": "सर्व नंबर १२",
+  "boundary_south": "सदरिल प्लॉट नंबर ३ चा उत्तरीत भाग",
+  "area_size": "४८.०६ च. मी. (sq. mtr) ५१७.१२ (sq. ft.)",
+  "property_address": "सर्वे नंबर १२/३१/९, प्लॉट ३ चा दक्षिण भाग, कन्हेरी, लातूर",
+  "registration_date": "१५/१०/२०१८",
+  "registration_number": "८२२४/२०१८",
+  "book_number": "२३",
+  "sro_office": "S.R. Latur 1, District Latur",
+  "sale_amount": "१,२१,००० (अक्षरी एक लाख एकवीस हजार रुपये)",
+  "notes": [],
+  "extraction_method": "LLM Vision (OpenAI gpt-4o)"
+}
