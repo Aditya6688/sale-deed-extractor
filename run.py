@@ -64,7 +64,7 @@ def run_cli(pdf_path: str, output_path: str = None, method: str = "llm",
 def run_api():
     """Start the FastAPI server."""
     import uvicorn
-    uvicorn.run("app.api:app", host="0.0.0.0", port=8000, reload=True)
+    uvicorn.run("app.api:app", host="127.0.0.1", port=8000, reload=True)
 
 
 def run_streamlit():
